@@ -4,3 +4,7 @@ recipe
 kheer 
 paav bhaji
 paneer tikka
+
+drinks 
+lassi
+choclate milk shake
